@@ -1,10 +1,17 @@
 {
     "name": "jswebpmux",
     "version": "0.0.0",
+    "scripts": {
+        "build": "webpack"
+    
+    },
     "keywords": [
 
     ],
     "contributors": [
     ],
-    "dependencies": {}
+    "dependencies": {},
+    "devDependencies" : {
+        "webpack" : "2.4.1"
+    }
 }
